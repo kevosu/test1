@@ -1,11 +1,7 @@
 For more information on a specific command, type HELP command-name
 ASSOC          Displays or modifies file extension associations.
 ATTRIB         Displays or changes file attributes.
-BREAK          Sets or clears extended CTRL+C checking.
-BCDEDIT        Sets properties in boot database to control boot loading.
-CACLS          Displays or modifies access control lists (ACLs) of files.
-CALL           Calls one batch program from another.
-CD             Displays the name of or changes the current directory.
+BREAK          Sets or clears extended CT
 CHCP           Displays or sets the active code page number.
 CHDIR          Displays the name of or changes the current directory.
 CHKDSK         Checks a disk and displays a status report.
